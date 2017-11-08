@@ -1,6 +1,6 @@
 count = 0
 
-word = ''
+word = 'dorian'
 
 # Pre-processing
 word = word.lower()
